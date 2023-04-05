@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @arielhxd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-arielhxd/arielhxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in design
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on you
+- 📫 How to reach me, just call me
